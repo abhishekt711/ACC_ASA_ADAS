@@ -1,9 +1,9 @@
 # Autonomous_Navigation_ADAS
 
 Demo Video:
-Link1: Autonomous Vehicle
-Link2: LiDAR localization view
-Link3: Deployment of autonomous vehicle in IIT Hyderabad, India campus: 
+Link1: Autonomous Vehicle Demo: https://youtu.be/-ZuUbB1JMvE  
+Link2: LiDAR localization view : https://youtu.be/a_JywLREhbo
+Link3: Deployment of autonomous vehicle in IIT Hyderabad, India campus: https://www.linkedin.com/posts/tihan-iit-hyderabad_tihan-iithyderabad-innovatewithtihan-activity-7112009566434803712-SKUz?utm_source=share&utm_medium=member_ios
 
 
 The Code for LiDAR based autonomous Navigation including Adaptive Cruise control and Adaptive steering assist is coming soon. The complete Navigation stack includes:
