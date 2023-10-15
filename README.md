@@ -11,7 +11,7 @@ Link2: LiDAR localization view : https://youtu.be/a_JywLREhbo
 Link3: Deployment of autonomous vehicle in IIT Hyderabad, India campus: https://www.linkedin.com/posts/tihan-iit-hyderabad_tihan-iithyderabad-innovatewithtihan-activity-7112009566434803712-SKUz?utm_source=share&utm_medium=member_ios
 
 
-The work is submitted in IEEE Transaction on Consumer Electronics. The corresponding code will be published upon publication of the paper.
+# The work is submitted in IEEE Transaction on Consumer Electronics. The corresponding code will be published upon publication of the paper.
 
 
 The Code for LiDAR based autonomous Navigation including Adaptive Cruise control and Adaptive steering assist is coming soon. The complete Navigation stack includes:
