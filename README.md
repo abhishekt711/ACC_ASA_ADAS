@@ -1,7 +1,7 @@
 # Autonomous_Navigation_ADAS
 
 Demo Video:
-Link1: Autonomous Vehicle Demo: https://youtu.be/-ZuUbB1JMvE  
+Link1: Autonomous Vehicle ADAS Demo: https://youtu.be/-ZuUbB1JMvE  (Adaptive Cruise Control & Adaptive Steering Assist with gradual acceleration)
 
 
 Link2: LiDAR localization view : https://youtu.be/a_JywLREhbo
